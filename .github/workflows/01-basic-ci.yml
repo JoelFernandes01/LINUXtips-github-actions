@@ -1,5 +1,4 @@
 name: "Nível 1: Basic CI"
-
 on:
   push:
     branches: [ main ]
@@ -227,4 +226,3 @@ jobs:
           
           echo "Workflow concluído com sucesso!"
           echo "Badge será desbloqueado automaticamente se a aplicação estiver rodando"
-
